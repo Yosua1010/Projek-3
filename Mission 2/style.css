@@ -1,0 +1,53 @@
+/* style.css */
+
+ul {
+    list-style-type: none;
+    margin: 20px;
+    margin-left: 5px;
+}
+
+h6 {
+    margin: 1px;
+    margin-top: -20px;
+    color: black;
+    margin-left: 25px;
+    padding-left: 30px;
+}
+
+h3 {
+    margin-left: 4%;
+}
+
+ol {
+    list-style-type: none;
+}
+
+button {
+    margin-left: 30%;
+    background-color: #6c6cfb;
+    color: white;
+    display: flex;
+}
+
+.my {
+    margin-left: 60%;
+    margin-top: -30%;
+}
+
+img {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.h {
+    background-color: #6c6cfb;
+}
+
+.y {
+    background-color: red;
+}
+
+.ka {
+    text-decoration: none;
+}
